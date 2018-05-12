@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.mvc.dao.SolveQuestionDao" project="SE_HW4" 
+    file="/SE_HW4/src/com/mvc/dao/SolveQuestionDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="159" x="115" y="-130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.mvc.bean.RegisterBean" project="SE_HW4" 
+    file="/SE_HW4/src/com/mvc/bean/RegisterBean.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="443" width="160" x="314" y="-130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.mvc.controller.UpdateProfileServlet" project="SE_HW4" 
+    file="/SE_HW4/src/com/mvc/controller/UpdateProfileServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="137" width="323" x="514" y="-130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.mvc.controller.AnswerFeedbackServlet" project="SE_HW4" 
+    file="/SE_HW4/src/com/mvc/controller/AnswerFeedbackServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="323" x="877" y="-130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.mvc.controller.ViewQuestionServlet" project="SE_HW4" 
+    file="/SE_HW4/src/com/mvc/controller/ViewQuestionServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="137" width="323" x="1240" y="-130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.mvc.dao.ViewQuestionsDao" project="SE_HW4" 
+    file="/SE_HW4/src/com/mvc/dao/ViewQuestionsDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="295" x="1603" y="-130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.mvc.controller.ChangePasswordServlet" project="SE_HW4" 
+    file="/SE_HW4/src/com/mvc/controller/ChangePasswordServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="323" x="1938" y="-130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.mvc.dao.LoginDao" project="SE_HW4" 
+    file="/SE_HW4/src/com/mvc/dao/LoginDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="187" x="2301" y="-130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.mvc.dao.AddQuestionDao" project="SE_HW4" 
+    file="/SE_HW4/src/com/mvc/dao/AddQuestionDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="452" x="2528" y="-130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.mvc.dao.AnswerFeedbackDao" project="SE_HW4" 
+    file="/SE_HW4/src/com/mvc/dao/AnswerFeedbackDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="224" x="3020" y="-130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.mvc.controller.AddQuestionServlet" project="SE_HW4" 
+    file="/SE_HW4/src/com/mvc/controller/AddQuestionServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="137" width="323" x="3284" y="-130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.mvc.controller.LogoutServlet" project="SE_HW4" 
+    file="/SE_HW4/src/com/mvc/controller/LogoutServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="318" x="3647" y="-130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="com.mvc.util.DBConnection" project="SE_HW4" 
+    file="/SE_HW4/src/com/mvc/util/DBConnection.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="197" x="4005" y="-130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="com.mvc.dao.RegisterDao" project="SE_HW4" 
+    file="/SE_HW4/src/com/mvc/dao/RegisterDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="404" x="4242" y="-130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="com.mvc.dao.ClearHistoryDao" project="SE_HW4" 
+    file="/SE_HW4/src/com/mvc/dao/ClearHistoryDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="135" x="4686" y="-130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="com.mvc.dao.ChangePasswordDao" project="SE_HW4" 
+    file="/SE_HW4/src/com/mvc/dao/ChangePasswordDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="263" x="4861" y="-130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="com.mvc.dao.UpdateProfileDao" project="SE_HW4" 
+    file="/SE_HW4/src/com/mvc/dao/UpdateProfileDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="170" x="5164" y="-130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="com.mvc.controller.ClearHistoryServlet" project="SE_HW4" 
+    file="/SE_HW4/src/com/mvc/controller/ClearHistoryServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="318" x="5374" y="-130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="com.mvc.controller.LoginServlet" project="SE_HW4" 
+    file="/SE_HW4/src/com/mvc/controller/LoginServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="323" x="5732" y="-130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="com.mvc.util.EncryptPassword" project="SE_HW4" 
+    file="/SE_HW4/src/com/mvc/util/EncryptPassword.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="144" x="6095" y="-130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="com.mvc.bean.LoginBean" project="SE_HW4" 
+    file="/SE_HW4/src/com/mvc/bean/LoginBean.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="245" width="148" x="6279" y="-130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="com.mvc.controller.SolveQuestionServlet" project="SE_HW4" 
+    file="/SE_HW4/src/com/mvc/controller/SolveQuestionServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="137" width="323" x="6467" y="-130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="com.mvc.controller.RegisterServlet" project="SE_HW4" 
+    file="/SE_HW4/src/com/mvc/controller/RegisterServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="323" x="6830" y="-130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="com.mvc.bean.QuestionBean" project="SE_HW4" 
+    file="/SE_HW4/src/com/mvc/bean/QuestionBean.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="641" width="405" x="7193" y="-130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
